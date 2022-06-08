@@ -1,0 +1,60 @@
+.SendEmail{
+    padding-top: 60px;
+    background-color: #edf0f4;
+    height: 350px;
+}
+.text{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.h1-description{
+    color: #29323d;
+}
+.h4-description{
+    color: #7d7f81;
+    font-weight: 400;
+
+}
+
+.button-sendEmail {
+    border-radius: 5px;
+    background-color: #29323d;
+    font-family: 'Open Sans', sans-serif;
+    border: solid 1px #29323d;
+
+    color: #ffffff;
+    font-weight: 700;
+  width: 150px;
+  height: 50px;
+
+}
+
+.input-sendemail{
+
+    width: 300px;
+    border-radius: 5px;
+    height: 90%;
+    margin-right: 10px;
+    border: solid 3px #bbbdbf;
+}
+.input-sendemail::placeholder{
+    color: #bbbdbf;
+}
+.content-description{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper-sendEmailContent{
+    display: flex;
+    flex-direction: column;
+align-items: center;}
+.wrapper-form-sendEmail{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
