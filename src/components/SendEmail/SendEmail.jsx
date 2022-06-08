@@ -6,7 +6,7 @@ import "./SendEmail.css";
 const SendEmail = () => {
     const [email, setEmail] = useState('')
   var jsonData = {
-    email: {email},
+    email: email,
   };
 
   function handleClick() {
