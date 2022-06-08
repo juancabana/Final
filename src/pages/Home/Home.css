@@ -24,6 +24,9 @@
 }
 .content-home {
   /* background-color: antiquewhite; */
+  padding-left: 50px;
+  padding-right: 50px;
+
   display: flex;
   align-items: center;
   flex-direction: column;
